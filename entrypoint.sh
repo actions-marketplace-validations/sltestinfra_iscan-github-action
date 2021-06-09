@@ -1,4 +1,4 @@
-#!/bin/ash
+#!/bin/sh
 DATETIME="`date '+%H:%M'`"
 
 if [ -z "$INPUT_PATH" ]
