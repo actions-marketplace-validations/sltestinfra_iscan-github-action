@@ -1,4 +1,4 @@
-FROM chenchunaiduuni/iscan:alpine-test
+FROM chenchunaiduuni/iscan:jan-alpine
 
 COPY entrypoint.sh /entrypoint.sh
 
